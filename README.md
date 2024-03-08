@@ -1,8 +1,11 @@
 # DermAI 
 <div>
-  <img src="!https://github.com/rhali-01/DermAi/assets/109041560/44ca1d1b-f48f-4a80-8759-c97edcde921a" alt="Alternative Text" width="300">
+  <img src="https://github.com/rhali-01/DermAI/assets/109041560/19b1247d-1a4f-4b14-81bc-ad3855ac5ed6" alt="Alternative Text" width="300">
 </div>
+
+
 Google TechMeetUp4 Hackathon 
+
 
 Pathway: Artificial Intelligence & Health
 
@@ -23,7 +26,7 @@ Our task is to employ artificial intelligence for early cancer detection by deve
 ## Methodology 
 
 <div>
-  <img src="URL_to_image" alt="Alternative Text" width="300">
+  <img src="https://github.com/rhali-01/DermAI/assets/109041560/796f99a1-d13c-4dee-a932-26af76a47d82" alt="Alternative Text" width="300">
 </div>
 
 
@@ -32,8 +35,15 @@ Our task is to employ artificial intelligence for early cancer detection by deve
 
 #### UI/UX demo
 
+https://github.com/rhali-01/DermAI/assets/109041560/1bf52678-967d-432e-afbf-a9258a7574c2
+
+
 
 #### User flow
+
+<div>
+  <img src="https://github.com/rhali-01/DermAI/assets/109041560/c3e9b7a4-92bc-45ff-b9c9-3e410c7edb44" alt="Alternative Text" width="300">
+</div>
 
 
 ## Presentation (in Arabic) 
