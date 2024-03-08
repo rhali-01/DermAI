@@ -6,7 +6,6 @@
 
 Google TechMeetUp4 Hackathon 
 
-
 Pathway: Artificial Intelligence & Health
 
 Approach: Diagnosis using Medical Images  
@@ -34,21 +33,18 @@ Our task is to employ artificial intelligence for early cancer detection by deve
 
 
 #### UI/UX demo
-
 https://github.com/rhali-01/DermAI/assets/109041560/1bf52678-967d-432e-afbf-a9258a7574c2
 
 
-
 #### User flow
-
 <div>
-  <img src="https://github.com/rhali-01/DermAI/assets/109041560/c3e9b7a4-92bc-45ff-b9c9-3e410c7edb44" alt="Alternative Text" width="300">
+  <img src="https://github.com/rhali-01/DermAI/assets/109041560/c3e9b7a4-92bc-45ff-b9c9-3e410c7edb44" alt="Alternative Text" width="500">
 </div>
 
 
 ## Presentation (in Arabic) 
 
-
+[Techmeetup4.pdf](https://github.com/rhali-01/DermAI/files/14543829/Techmeetup4.pdf)
 
 
 ## Dataset Sources:
@@ -64,4 +60,3 @@ o Melanoma dataset:
 o Bruises dataset:
 
 ▪ https://universe.roboflow.com/new-workspace-khpun/bruises
-v
