@@ -25,7 +25,7 @@ Our task is to employ artificial intelligence for early cancer detection by deve
 ## Methodology 
 
 <div>
-  <img src="https://github.com/rhali-01/DermAI/assets/109041560/796f99a1-d13c-4dee-a932-26af76a47d82" alt="Alternative Text" width="300">
+  <img src="https://github.com/rhali-01/DermAI/assets/109041560/796f99a1-d13c-4dee-a932-26af76a47d82" alt="Alternative Text" width="500">
 </div>
 
 
