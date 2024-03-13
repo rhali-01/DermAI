@@ -33,7 +33,7 @@ Our task is to employ artificial intelligence for early cancer detection by deve
 
 
 #### UI/UX demo
-https://github.com/rhali-01/DermAI/assets/109041560/1bf52678-967d-432e-afbf-a9258a7574c2
+https://github.com/rhali-01/DermAI/assets/109041560/d8ff1cb4-a2c9-4df8-b6ca-35fc80b6b5e2
 
 
 #### User flow
